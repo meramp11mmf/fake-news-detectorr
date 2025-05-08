@@ -2,11 +2,15 @@
 
 An AI-powered fake news detector built using **Streamlit** and **scikit-learn**. This project classifies news articles as **Real** or **Fake** using machine learning.
 
-## 🚀 Demo
-![App UI](screenshots/ui.png)  
-🎥 [Watch the demo video](demo.mp4) *(replace with YouTube if uploaded)*
+##  Demo
+![App UI](screenshots/ui.png)
 
-## 🧠 How It Works
+## 🎥 Demo
+[Watch the demo video](demo.mp4) *(Replace with YouTube link if hosted online)*
+
+![Fake News Detection](screenshots/fake_news.gif)
+
+##  How It Works
 
 1. Dataset: [Fake and Real News Dataset - Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 2. Preprocessing with `pandas`
