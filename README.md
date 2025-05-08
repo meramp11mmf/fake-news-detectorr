@@ -6,7 +6,7 @@ An AI-powered fake news detector built using **Streamlit** and **scikit-learn**.
 ![App UI](screenshots/ui.png)
 
 ## 🎥 Demo
-[Watch the demo video](demo.mp4) *(Replace with YouTube link if hosted online)*
+[Watch the demo video]("C:\Users\melha\Downloads\fake news.gif") 
 
 ![Fake News Detection](screenshots/fake_news.gif)
 
