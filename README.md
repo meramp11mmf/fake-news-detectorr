@@ -1,14 +1,11 @@
 # 🧠 Fake News Detector
 
 An AI-powered fake news detector built using **Streamlit** and **scikit-learn**. This project classifies news articles as **Real** or **Fake** using machine learning.
+[Click here to view the app](http://localhost:8501/)
 
-##  Demo
-![App UI](screenshots/ui.png)
 
 ## 🎥 Demo
 ![Fake News Detector GIF](https://github.com/meramp11mmf/fake-news-detectorr/raw/main/fake%20news.gif)
- ![App Screenshot](https://github.com/meramp11mmf/fake-news-detectorr/raw/main/app.png)
-
 
 ##  How It Works
 
