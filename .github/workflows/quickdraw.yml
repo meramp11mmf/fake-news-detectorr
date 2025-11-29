@@ -1,0 +1,14 @@
+name: Quickdraw Badge
+
+on:
+  issues:
+    types: [opened, edited, closed]
+
+jobs:
+  quickdraw:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print issue info
+        run: |
+          echo "Issue title: ${{ github.event.issue.title }}"
+          echo "Issue action: ${{ github.event.action }}"
